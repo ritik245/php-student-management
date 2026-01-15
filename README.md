@@ -124,13 +124,6 @@ Ritik Raj
 GitHub: https://github.com/ritik245
 
 ---
+📄 License
 
-## ✅ NEXT STEPS (OPTIONAL BUT PRO)
-
-You can now:
-1️⃣ Add **screenshots** to README  
-2️⃣ Deploy project online  
-3️⃣ Add **password hashing**  
-4️⃣ Prepare **college project report**
-
-Just tell me what you want next 😊
+This project is for educational purposes only.
